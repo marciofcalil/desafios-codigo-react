@@ -11,17 +11,17 @@ Nenhum
 
 &nbsp;
 # Requisitos 📖
-- Adicionar funcionalidade ao botão "dark-mode" existente, para alternar layout da página entre modo padrão (claro) e modo escuro ("dark-mode).
-  - Utilize o arquivos scss de modo escuro *existente* adicionando uma classe 'dark-mode' ao elemento raiz 'html'.
+- Adicionar funcionalidade ao botão "dark-mode" existente, para alternar layout da página entre modo padrão (claro) e modo escuro (dark-mode).
+  - Utilize o arquivos scss de modo escuro *existente* adicionando uma classe `dark-mode` ao elemento raiz `html`.
 - Quando no modo escuro:
-  - O ícone do botão deve ser 'faSun'
-  - A cor do ícone do botão deve ser '(FFA500)'. Você pode usar a propriedade 'color' no componente 'Icon' (ícone).
+  - O ícone do botão deve ser `faSun`
+  - A cor do ícone do botão deve ser `(FFA500)`. Você pode usar a propriedade `color` no componente `Icon` (ícone).
 
 
 &nbsp;
 # Pense a respeito 💡
 - Como usaríamos o modo escuro (dark mode) em outras rotas/componentes potenciais em uma aplicação maior. Sua solução funcionaria neste caso?
-- Como podemos aplicar uma classe ao elemento DOM 'html'
+- Como podemos aplicar uma classe ao elemento DOM `html`
 
 &nbsp;
 # Screenshots 🌄
