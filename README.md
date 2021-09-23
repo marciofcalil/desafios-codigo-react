@@ -6,7 +6,7 @@ Série de **Desafios de código na linguagem ReactJS** com desafios separados po
 &nbsp;
 ## Os Desafios
 ### Dificuldade: Fácil 🙂
-##### 🚀 [Rocket Ship] **Não disponível neste momento**
+##### 🚀 [Rocket Ship](https://github.com/marciofcalil/react-coding-challenges/tree/main/rocket-ship)
 Re-renderizações desnecessárias, controle refinado.
 (En: Unnecessary re-renders, fine grained control.)
 
