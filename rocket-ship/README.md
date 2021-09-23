@@ -2,7 +2,7 @@
 
 &nbsp;
 ## Metas / Resultados (En: Goals / Outcomes) ✨
-- Testar o entendimento básico dos ciclos de vida (lifecycles) de renderização em componentes funcionais e de classe
+- Testar o entendimento básico em relação ao ciclo de vida (lifecycles) de renderização em componentes funcionais e de classe
 
 &nbsp;
 ## Pré-requisitos ✅
