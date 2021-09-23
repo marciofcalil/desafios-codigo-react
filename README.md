@@ -6,13 +6,13 @@ Série de **Desafios de código na linguagem ReactJS** com desafios separados po
 &nbsp;
 ## Os Desafios
 ### Dificuldade: Fácil 🙂
-##### 🚀 [Rocket Ship](https://github.com/marciofcalil/react-coding-challenges/tree/main/rocket-ship)
+##### 🚀 [Foguete - Rocket Ship](https://github.com/marciofcalil/react-coding-challenges/tree/main/rocket-ship)
 Re-renderizações desnecessárias, controle refinado.
 (En: Unnecessary re-renders, fine grained control.)
 
 &nbsp;
 ### Dificuldade: Mediana 😐
-##### 🌙 [Dark Mode](https://github.com/marciofcalil/react-coding-challenges/tree/main/dark-mode)
+##### 🌙 [Modo Escuro - Dark Mode](https://github.com/marciofcalil/react-coding-challenges/tree/main/dark-mode)
 Estado / estado compartilhado, manipulação do DOM.
 (En: State / shared state, DOM manipulation.)
 
