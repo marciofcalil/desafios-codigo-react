@@ -46,5 +46,7 @@ Temos as soluções dos problemas apresetados e podemos compartilhar após algun
 - Realista - alguém precisa construir algo assim na vida real?
 - Fácil de começar (pré-requisitos mínimos)
 
-
-**Os desafios foram traduzidos da página do Alex Gurr, todos os créditos são dele.**
+&nbsp;
+&nbsp;
+### Quem desenvolveu os desafios?
+Os desafios foram traduzidos da página do **Alex Gurr**, todos os créditos são dele.
