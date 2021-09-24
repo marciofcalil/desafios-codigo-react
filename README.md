@@ -17,12 +17,6 @@ Estado / estado compartilhado, manipulação do DOM.
 (En: State / shared state, DOM manipulation.)
 
 &nbsp;
-### Dificuldade: Difícil 😬
-##### 🎧 [Spootify] **Não disponível neste momento**
-Estado: Carregando, Uso de API.
-(En: Loading state, API usage.)
-
-&nbsp;
 ## Para que servem os desafios?
 Os desafios de código são:
 - Exercícios curtos de codificação, para uso em entrevistas com candidatos.
