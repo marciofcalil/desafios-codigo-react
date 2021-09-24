@@ -45,3 +45,6 @@ Temos as soluções dos problemas apresetados e podemos compartilhar após algun
 - Ser visualmente bom / agradável
 - Realista - alguém precisa construir algo assim na vida real?
 - Fácil de começar (pré-requisitos mínimos)
+
+
+**Os desafios foram traduzidos da página do Alex Gurr, todos os créditos são dele.**
