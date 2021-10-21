@@ -26,5 +26,5 @@ Nenhum
 &nbsp;
 # Screenshots 🌄
 &nbsp;
-![screenshot-light](https://puu.sh/Fq13d/04a9e5ad48.png)
-![screenshot-dark](https://puu.sh/Fq132/caa2fa0c6d.png)
+![screenshot-light](https://github.com/marciofcalil/desafios-codigo-react/blob/main/images/dark-1.png?raw=true)
+![screenshot-dark](https://github.com/marciofcalil/desafios-codigo-react/blob/main/images/dark-2.png?raw=true)
